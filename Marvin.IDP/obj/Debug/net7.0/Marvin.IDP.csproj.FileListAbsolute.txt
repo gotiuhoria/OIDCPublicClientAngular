@@ -458,3 +458,4 @@
 /Users/horiagotiu/Repos/OIDCPublicClientBackend/Marvin.IDP/obj/Debug/net7.0/Marvin.IDP.pdb
 /Users/horiagotiu/Repos/OIDCPublicClientBackend/Marvin.IDP/obj/Debug/net7.0/Marvin.IDP.genruntimeconfig.cache
 /Users/horiagotiu/Repos/OIDCPublicClientBackend/Marvin.IDP/obj/Debug/net7.0/ref/Marvin.IDP.dll
+/Users/horiagotiu/Repos/OIDCPublicClientBackend/Marvin.IDP/bin/Debug/net7.0/keys/is-signing-key-03EC6E5897E6F3680A20328A0A16B496.json
