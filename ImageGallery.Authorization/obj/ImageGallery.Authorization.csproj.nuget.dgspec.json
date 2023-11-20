@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.Authorization/ImageGallery.Authorization.csproj": {}
+    "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.Authorization/ImageGallery.Authorization.csproj": {}
   },
   "projects": {
-    "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.Authorization/ImageGallery.Authorization.csproj": {
+    "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.Authorization/ImageGallery.Authorization.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.Authorization/ImageGallery.Authorization.csproj",
+        "projectUniqueName": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.Authorization/ImageGallery.Authorization.csproj",
         "projectName": "ImageGallery.Authorization",
-        "projectPath": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.Authorization/ImageGallery.Authorization.csproj",
+        "projectPath": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.Authorization/ImageGallery.Authorization.csproj",
         "packagesPath": "/Users/horiagotiu/.nuget/packages/",
-        "outputPath": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.Authorization/obj/",
+        "outputPath": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.Authorization/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/horiagotiu/.nuget/NuGet/NuGet.Config"

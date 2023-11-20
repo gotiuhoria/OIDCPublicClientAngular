@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/+walOTusa2g0PwsRM2W+GJrrJKlfNXwSpZu+BG7tl2Cdcqo31S3QYYqMU57CAddSQVpFiDDGD6ZrHhM+Xz08w==",
+  "dgSpecHash": "KdnufZoChe7zivlnBH9t16FljzPQjA4NQn0zdhXwb1fjvmpKg5ZaPxwV0VXW+ZH2b5vOAzCCZBE/+p+a+kSTbw==",
   "success": true,
-  "projectFilePath": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.Authorization/ImageGallery.Authorization.csproj",
+  "projectFilePath": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.Authorization/ImageGallery.Authorization.csproj",
   "expectedPackageFiles": [
     "/Users/horiagotiu/.nuget/packages/microsoft.aspnetcore.authorization/7.0.11/microsoft.aspnetcore.authorization.7.0.11.nupkg.sha512",
     "/Users/horiagotiu/.nuget/packages/microsoft.aspnetcore.metadata/7.0.11/microsoft.aspnetcore.metadata.7.0.11.nupkg.sha512",

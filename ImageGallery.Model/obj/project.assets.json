@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.Model/ImageGallery.Model.csproj",
+      "projectUniqueName": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.Model/ImageGallery.Model.csproj",
       "projectName": "ImageGallery.Model",
-      "projectPath": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.Model/ImageGallery.Model.csproj",
+      "projectPath": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.Model/ImageGallery.Model.csproj",
       "packagesPath": "/Users/horiagotiu/.nuget/packages/",
-      "outputPath": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.Model/obj/",
+      "outputPath": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.Model/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/horiagotiu/.nuget/NuGet/NuGet.Config"

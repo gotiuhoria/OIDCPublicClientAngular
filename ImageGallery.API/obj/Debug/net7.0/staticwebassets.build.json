@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gpI+ca6qkVn6e/6SFw+cdhCoXV9lzQ4YYU9nZJzF84s=",
+  "Hash": "rc8cTYqXqFrCNSEbxhXC+4flS6RD7SVZb5GeDoDRQMY=",
   "Source": "ImageGallery.API",
   "BasePath": "_content/ImageGallery.API",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ImageGallery.API/wwwroot",
       "Source": "ImageGallery.API",
-      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/",
+      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/",
       "BasePath": "_content/ImageGallery.API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/Images/03fb9b5f-b934-4c1e-a0af-a8985020d098.jpg",
+      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/Images/03fb9b5f-b934-4c1e-a0af-a8985020d098.jpg",
       "SourceId": "ImageGallery.API",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/",
+      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/",
       "BasePath": "_content/ImageGallery.API",
       "RelativePath": "Images/03fb9b5f-b934-4c1e-a0af-a8985020d098.jpg",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot/Images/03fb9b5f-b934-4c1e-a0af-a8985020d098.jpg"
     },
     {
-      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/Images/0e8bf3d0-c708-4faf-9d22-3e7bf46c3de1.jpg",
+      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/Images/0e8bf3d0-c708-4faf-9d22-3e7bf46c3de1.jpg",
       "SourceId": "ImageGallery.API",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/",
+      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/",
       "BasePath": "_content/ImageGallery.API",
       "RelativePath": "Images/0e8bf3d0-c708-4faf-9d22-3e7bf46c3de1.jpg",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot/Images/0e8bf3d0-c708-4faf-9d22-3e7bf46c3de1.jpg"
     },
     {
-      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/Images/2f65cef7-beb9-47c7-ac3f-ea2f1c3fc072.jpg",
+      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/Images/2f65cef7-beb9-47c7-ac3f-ea2f1c3fc072.jpg",
       "SourceId": "ImageGallery.API",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/",
+      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/",
       "BasePath": "_content/ImageGallery.API",
       "RelativePath": "Images/2f65cef7-beb9-47c7-ac3f-ea2f1c3fc072.jpg",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot/Images/2f65cef7-beb9-47c7-ac3f-ea2f1c3fc072.jpg"
     },
     {
-      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/Images/3fbe2aea-2257-44f2-b3b1-3d8bacade89c.jpg",
+      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/Images/3fbe2aea-2257-44f2-b3b1-3d8bacade89c.jpg",
       "SourceId": "ImageGallery.API",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/",
+      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/",
       "BasePath": "_content/ImageGallery.API",
       "RelativePath": "Images/3fbe2aea-2257-44f2-b3b1-3d8bacade89c.jpg",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot/Images/3fbe2aea-2257-44f2-b3b1-3d8bacade89c.jpg"
     },
     {
-      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/Images/43de8b65-8b19-4b87-ae3c-df97e18bd461.jpg",
+      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/Images/43de8b65-8b19-4b87-ae3c-df97e18bd461.jpg",
       "SourceId": "ImageGallery.API",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/",
+      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/",
       "BasePath": "_content/ImageGallery.API",
       "RelativePath": "Images/43de8b65-8b19-4b87-ae3c-df97e18bd461.jpg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot/Images/43de8b65-8b19-4b87-ae3c-df97e18bd461.jpg"
     },
     {
-      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/Images/445150ff-f8e6-43f5-b348-5f43ee7c2358.jpg",
+      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/Images/445150ff-f8e6-43f5-b348-5f43ee7c2358.jpg",
       "SourceId": "ImageGallery.API",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/",
+      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/",
       "BasePath": "_content/ImageGallery.API",
       "RelativePath": "Images/445150ff-f8e6-43f5-b348-5f43ee7c2358.jpg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot/Images/445150ff-f8e6-43f5-b348-5f43ee7c2358.jpg"
     },
     {
-      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/Images/4490de71-7ca6-462a-836a-ee3c05528ac2.jpg",
+      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/Images/4490de71-7ca6-462a-836a-ee3c05528ac2.jpg",
       "SourceId": "ImageGallery.API",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/",
+      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/",
       "BasePath": "_content/ImageGallery.API",
       "RelativePath": "Images/4490de71-7ca6-462a-836a-ee3c05528ac2.jpg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot/Images/4490de71-7ca6-462a-836a-ee3c05528ac2.jpg"
     },
     {
-      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/Images/46194927-ccda-432f-bc95-4820318c08c7.JPG",
+      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/Images/46194927-ccda-432f-bc95-4820318c08c7.JPG",
       "SourceId": "ImageGallery.API",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/",
+      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/",
       "BasePath": "_content/ImageGallery.API",
       "RelativePath": "Images/46194927-ccda-432f-bc95-4820318c08c7.JPG",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot/Images/46194927-ccda-432f-bc95-4820318c08c7.JPG"
     },
     {
-      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/Images/4cdd494c-e6e1-4af1-9e54-24a8e80ea2b4.JPG",
+      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/Images/4cdd494c-e6e1-4af1-9e54-24a8e80ea2b4.JPG",
       "SourceId": "ImageGallery.API",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/",
+      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/",
       "BasePath": "_content/ImageGallery.API",
       "RelativePath": "Images/4cdd494c-e6e1-4af1-9e54-24a8e80ea2b4.JPG",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot/Images/4cdd494c-e6e1-4af1-9e54-24a8e80ea2b4.JPG"
     },
     {
-      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/Images/5c20ca95-bb00-4ef1-8b85-c4b11e66eb54.JPG",
+      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/Images/5c20ca95-bb00-4ef1-8b85-c4b11e66eb54.JPG",
       "SourceId": "ImageGallery.API",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/",
+      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/",
       "BasePath": "_content/ImageGallery.API",
       "RelativePath": "Images/5c20ca95-bb00-4ef1-8b85-c4b11e66eb54.JPG",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot/Images/5c20ca95-bb00-4ef1-8b85-c4b11e66eb54.JPG"
     },
     {
-      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/Images/6b33c074-65cf-4f2b-913a-1b2d4deb7050.JPG",
+      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/Images/6b33c074-65cf-4f2b-913a-1b2d4deb7050.JPG",
       "SourceId": "ImageGallery.API",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/",
+      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/",
       "BasePath": "_content/ImageGallery.API",
       "RelativePath": "Images/6b33c074-65cf-4f2b-913a-1b2d4deb7050.JPG",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot/Images/6b33c074-65cf-4f2b-913a-1b2d4deb7050.JPG"
     },
     {
-      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/Images/7e80a4c8-0a8a-4593-a16f-2e257294a1f9.JPG",
+      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/Images/7e80a4c8-0a8a-4593-a16f-2e257294a1f9.JPG",
       "SourceId": "ImageGallery.API",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/",
+      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/",
       "BasePath": "_content/ImageGallery.API",
       "RelativePath": "Images/7e80a4c8-0a8a-4593-a16f-2e257294a1f9.JPG",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot/Images/7e80a4c8-0a8a-4593-a16f-2e257294a1f9.JPG"
     },
     {
-      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/Images/8d351bbb-f760-4b56-9d4e-e8d61619bf70.JPG",
+      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/Images/8d351bbb-f760-4b56-9d4e-e8d61619bf70.JPG",
       "SourceId": "ImageGallery.API",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/",
+      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/",
       "BasePath": "_content/ImageGallery.API",
       "RelativePath": "Images/8d351bbb-f760-4b56-9d4e-e8d61619bf70.JPG",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot/Images/8d351bbb-f760-4b56-9d4e-e8d61619bf70.JPG"
     },
     {
-      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/Images/94878996-e040-44ef-a668-0bf17d966062.JPG",
+      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/Images/94878996-e040-44ef-a668-0bf17d966062.JPG",
       "SourceId": "ImageGallery.API",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/",
+      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/",
       "BasePath": "_content/ImageGallery.API",
       "RelativePath": "Images/94878996-e040-44ef-a668-0bf17d966062.JPG",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot/Images/94878996-e040-44ef-a668-0bf17d966062.JPG"
     },
     {
-      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/Images/b2894002-0b7c-4f05-896a-856283012c87.jpg",
+      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/Images/b2894002-0b7c-4f05-896a-856283012c87.jpg",
       "SourceId": "ImageGallery.API",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/",
+      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/",
       "BasePath": "_content/ImageGallery.API",
       "RelativePath": "Images/b2894002-0b7c-4f05-896a-856283012c87.jpg",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot/Images/b2894002-0b7c-4f05-896a-856283012c87.jpg"
     },
     {
-      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/Images/cc412f08-2a7b-4225-b659-07fdb168302d.JPG",
+      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/Images/cc412f08-2a7b-4225-b659-07fdb168302d.JPG",
       "SourceId": "ImageGallery.API",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/",
+      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/",
       "BasePath": "_content/ImageGallery.API",
       "RelativePath": "Images/cc412f08-2a7b-4225-b659-07fdb168302d.JPG",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot/Images/cc412f08-2a7b-4225-b659-07fdb168302d.JPG"
     },
     {
-      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/Images/cd139111-c82e-4bc8-9f7d-43a1059bfe73.jpg",
+      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/Images/cd139111-c82e-4bc8-9f7d-43a1059bfe73.jpg",
       "SourceId": "ImageGallery.API",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/",
+      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/",
       "BasePath": "_content/ImageGallery.API",
       "RelativePath": "Images/cd139111-c82e-4bc8-9f7d-43a1059bfe73.jpg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot/Images/cd139111-c82e-4bc8-9f7d-43a1059bfe73.jpg"
     },
     {
-      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/Images/dc3f39bf-d1da-465d-9ea4-935902c2e3d2.jpg",
+      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/Images/dc3f39bf-d1da-465d-9ea4-935902c2e3d2.jpg",
       "SourceId": "ImageGallery.API",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/",
+      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/",
       "BasePath": "_content/ImageGallery.API",
       "RelativePath": "Images/dc3f39bf-d1da-465d-9ea4-935902c2e3d2.jpg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot/Images/dc3f39bf-d1da-465d-9ea4-935902c2e3d2.jpg"
     },
     {
-      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/Images/e0e32179-109c-4a8a-bf91-3d65ff83ca29.jpg",
+      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/Images/e0e32179-109c-4a8a-bf91-3d65ff83ca29.jpg",
       "SourceId": "ImageGallery.API",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/",
+      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/",
       "BasePath": "_content/ImageGallery.API",
       "RelativePath": "Images/e0e32179-109c-4a8a-bf91-3d65ff83ca29.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot/Images/e0e32179-109c-4a8a-bf91-3d65ff83ca29.jpg"
     },
     {
-      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/Images/fdfe7329-e05c-41fb-a7c7-4f3226d28c49.jpg",
+      "Identity": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/Images/fdfe7329-e05c-41fb-a7c7-4f3226d28c49.jpg",
       "SourceId": "ImageGallery.API",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/wwwroot/",
+      "ContentRoot": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/wwwroot/",
       "BasePath": "_content/ImageGallery.API",
       "RelativePath": "Images/fdfe7329-e05c-41fb-a7c7-4f3226d28c49.jpg",
       "AssetKind": "All",

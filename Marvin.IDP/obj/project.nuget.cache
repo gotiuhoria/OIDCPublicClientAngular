@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jRhKOg3L96RMMKQIcbOrPDnlm1Jw9IPuUVnI2qeay7sABged9gHwaH+Wx701/7Bkr3lBr3kjydbWALoPAHzrkQ==",
+  "dgSpecHash": "gKJqgkIT/tvs8r+OZv5vk/e1TgKtgFKbdLyMoYotZw+hvtLaFEVCrDxUy/mLHrqTK+9HagaZ+f9K7KpFcMA1Qg==",
   "success": true,
-  "projectFilePath": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/Marvin.IDP/Marvin.IDP.csproj",
+  "projectFilePath": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/Marvin.IDP/Marvin.IDP.csproj",
   "expectedPackageFiles": [
     "/Users/horiagotiu/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/horiagotiu/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",

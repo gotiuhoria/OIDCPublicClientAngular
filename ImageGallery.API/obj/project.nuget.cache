@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QRicXKGPzUCjh/cB3HmiRnNvkPtbLbpm3aXzsiQsIII1ArUBlNzbC12vEUW64OJLJFjWSfUf0mqi2BUPz61V6A==",
+  "dgSpecHash": "13lpRGzZyiBSZB5cnVKRh4nnnQje6u8S7Ja9gqyOGgOkao7CQqOtmv08W/EBWiJoLe+U6kzsCZ6CS+VEFYjYlQ==",
   "success": true,
-  "projectFilePath": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.API/ImageGallery.API.csproj",
+  "projectFilePath": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.API/ImageGallery.API.csproj",
   "expectedPackageFiles": [
     "/Users/horiagotiu/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
     "/Users/horiagotiu/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

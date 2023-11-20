@@ -3894,11 +3894,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/Marvin.IDP/Marvin.IDP.csproj",
+      "projectUniqueName": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/Marvin.IDP/Marvin.IDP.csproj",
       "projectName": "Marvin.IDP",
-      "projectPath": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/Marvin.IDP/Marvin.IDP.csproj",
+      "projectPath": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/Marvin.IDP/Marvin.IDP.csproj",
       "packagesPath": "/Users/horiagotiu/.nuget/packages/",
-      "outputPath": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/Marvin.IDP/obj/",
+      "outputPath": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/Marvin.IDP/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/horiagotiu/.nuget/NuGet/NuGet.Config"

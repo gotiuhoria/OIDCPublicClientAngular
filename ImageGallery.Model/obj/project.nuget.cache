@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VpEO8d/882E1PP55vCkYPQimk1R/iHxWA3hIadCHQn0GdzOarUrX1DqVM2MEafeK7GjFn4F9T+QcxhykGR+FvQ==",
+  "dgSpecHash": "ZIip/GmW/3PqD6MluLC0HZ0yl/eT+ebXFGJSRzkvOasxCM5ryIstPwZ+Ydc3gBGOiXGmem1nfzGQ2REVOQvFqg==",
   "success": true,
-  "projectFilePath": "/Users/horiagotiu/Repos/OIDCPublicClientAngular/ImageGallery.Model/ImageGallery.Model.csproj",
+  "projectFilePath": "/Users/horiagotiu/Repos/OIDCPublicClientBackend/ImageGallery.Model/ImageGallery.Model.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
