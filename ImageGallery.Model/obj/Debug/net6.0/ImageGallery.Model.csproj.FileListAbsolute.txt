@@ -1,0 +1,12 @@
+/Users/horiagotiu/Downloads/asp-dot-net-core-6-securing-oauth-2-openid-connect/02/demos/start-end/ImageGallery.Model/bin/Debug/net6.0/ImageGallery.Model.deps.json
+/Users/horiagotiu/Downloads/asp-dot-net-core-6-securing-oauth-2-openid-connect/02/demos/start-end/ImageGallery.Model/bin/Debug/net6.0/ImageGallery.Model.dll
+/Users/horiagotiu/Downloads/asp-dot-net-core-6-securing-oauth-2-openid-connect/02/demos/start-end/ImageGallery.Model/bin/Debug/net6.0/ImageGallery.Model.pdb
+/Users/horiagotiu/Downloads/asp-dot-net-core-6-securing-oauth-2-openid-connect/02/demos/start-end/ImageGallery.Model/obj/Debug/net6.0/ImageGallery.Model.csproj.AssemblyReference.cache
+/Users/horiagotiu/Downloads/asp-dot-net-core-6-securing-oauth-2-openid-connect/02/demos/start-end/ImageGallery.Model/obj/Debug/net6.0/ImageGallery.Model.GeneratedMSBuildEditorConfig.editorconfig
+/Users/horiagotiu/Downloads/asp-dot-net-core-6-securing-oauth-2-openid-connect/02/demos/start-end/ImageGallery.Model/obj/Debug/net6.0/ImageGallery.Model.AssemblyInfoInputs.cache
+/Users/horiagotiu/Downloads/asp-dot-net-core-6-securing-oauth-2-openid-connect/02/demos/start-end/ImageGallery.Model/obj/Debug/net6.0/ImageGallery.Model.AssemblyInfo.cs
+/Users/horiagotiu/Downloads/asp-dot-net-core-6-securing-oauth-2-openid-connect/02/demos/start-end/ImageGallery.Model/obj/Debug/net6.0/ImageGallery.Model.csproj.CoreCompileInputs.cache
+/Users/horiagotiu/Downloads/asp-dot-net-core-6-securing-oauth-2-openid-connect/02/demos/start-end/ImageGallery.Model/obj/Debug/net6.0/ImageGallery.Model.dll
+/Users/horiagotiu/Downloads/asp-dot-net-core-6-securing-oauth-2-openid-connect/02/demos/start-end/ImageGallery.Model/obj/Debug/net6.0/refint/ImageGallery.Model.dll
+/Users/horiagotiu/Downloads/asp-dot-net-core-6-securing-oauth-2-openid-connect/02/demos/start-end/ImageGallery.Model/obj/Debug/net6.0/ImageGallery.Model.pdb
+/Users/horiagotiu/Downloads/asp-dot-net-core-6-securing-oauth-2-openid-connect/02/demos/start-end/ImageGallery.Model/obj/Debug/net6.0/ref/ImageGallery.Model.dll
