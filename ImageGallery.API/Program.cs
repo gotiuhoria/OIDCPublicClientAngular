@@ -13,7 +13,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers()
     .AddJsonOptions(configure => configure.JsonSerializerOptions.PropertyNamingPolicy = null);
-
+// comment
 builder.Services.AddDbContext<GalleryContext>(options =>
 {
     options.UseSqlite(
