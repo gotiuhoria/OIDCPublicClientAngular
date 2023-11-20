@@ -10,7 +10,7 @@ namespace ImageGallery.API.Controllers
     [ApiController]
     [Authorize]
     public class ImagesController : ControllerBase
-    {//comment to remove
+    {
         private readonly IGalleryRepository _galleryRepository;
         private readonly IWebHostEnvironment _hostingEnvironment;
         private readonly IMapper _mapper;
