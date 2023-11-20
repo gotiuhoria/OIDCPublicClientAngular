@@ -20,10 +20,10 @@ internal static class HostingExtensions
 
         builder.Services.AddDbContext<IdentityDbContext>(options =>
         {
-             // options.UseSqlite(
-             //     builder.Configuration.GetConnectionString("MainIdentityDBConnectionString"));
+             options.UseSqlite(
+                 builder.Configuration.GetConnectionString("MainIdentityDBConnectionString"));
     
-            options.UseSqlServer(builder.Configuration.GetConnectionString("SqlServerConnectionString"));
+            //options.UseSqlServer(builder.Configuration.GetConnectionString("SqlServerConnectionString"));
         });
         
         builder.Services.AddIdentityServer(options =>
