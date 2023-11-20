@@ -158,7 +158,6 @@ namespace ImageGallery.API.Controllers
             {
                 return NotFound();
             }
-///uuuuuuu
             _mapper.Map(imageForUpdate, imageFromRepo);
 
             _galleryRepository.UpdateImage(imageFromRepo);

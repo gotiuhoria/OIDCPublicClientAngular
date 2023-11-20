@@ -14,7 +14,7 @@ namespace ImageGallery.API.DbContexts
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            // seed the database with dummy data
+            
             modelBuilder.Entity<Image>().HasData(
                 new Image()
                 {
