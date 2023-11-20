@@ -19,17 +19,14 @@ TestResults
 # Include dlls if they're in the CommonReferences directory
 !*CommonReferences/*.dll
 
-# Build results
-[Dd]ebug/
-[Rr]elease/
-x64/
+
 *_i.c
 *_p.c
 *.ilk
 *.meta
 *.obj
 *.pch
-.pdb
+*.pdb
 *.pgc
 *.pgd
 *.rsp
