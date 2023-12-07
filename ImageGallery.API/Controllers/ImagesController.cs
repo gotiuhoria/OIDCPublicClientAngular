@@ -30,6 +30,7 @@ namespace ImageGallery.API.Controllers
 
         [HttpGet]
         [Route("GetText")]
+        [Authorize]
         public Image GetText()
         {
             return new Image

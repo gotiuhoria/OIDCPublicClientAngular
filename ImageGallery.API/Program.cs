@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
+ 
 builder.Services.AddControllers()
     .AddJsonOptions(configure => configure.JsonSerializerOptions.PropertyNamingPolicy = null);
 
@@ -45,23 +45,6 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
             ValidTypes = new[] { "at+jwt" },
         };
     });
-    // .AddOAuth2Introspection(options =>
-    // {
-    //     options.Authority = "https://localhost:5001";
-    //     options.ClientId = "imagegalleryapi";
-    //     options.ClientSecret = "apisecret";
-    //     options.NameClaimType = "given_name";
-    //     //options.RoleClaimType = "role";
-    // });
-
-builder.Services.AddCors(options =>
-{
-    options.AddPolicy(name: "_myAllowSpecificOrigins",
-        policy  =>
-        {
-            policy.WithOrigins("http://localhost:4200");
-        });
-});
 
 builder.Services.AddAuthorization(authorizationOptions =>
 {
@@ -88,15 +71,12 @@ var app = builder.Build();
 app.UseHttpsRedirection();
 
 app.UseStaticFiles();
-
-//app.UseCors("_myAllowSpecificOrigins");
 app.UseCors(x => x
     .AllowAnyMethod()
     .AllowAnyHeader()
-    .AllowAnyOrigin()
-    .SetIsOriginAllowed(origin => true)); // allow any origin
-    //.WithOrigins("https://localhost:44351")); // Allow only this origin can also have multiple origins separated with comma
-    //.AllowCredentials()); // allow credentials
+    .SetIsOriginAllowed(origin => origin == "http://localhost:4200")
+    .AllowCredentials());// allow any origin
+    
 
 app.UseAuthentication();
 
