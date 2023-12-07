@@ -8,8 +8,6 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
-
-// Add services to the container.
  
 builder.Services.AddControllers()
     .AddJsonOptions(configure => configure.JsonSerializerOptions.PropertyNamingPolicy = null);
@@ -22,13 +20,10 @@ builder.Services.AddDbContext<GalleryContext>(options =>
     //options.UseSqlServer("Server=localhost;Database=ImageGallery;User Id=sa;Password=Mixtape88**; TrustServerCertificate=True;");
 });
 
-// register the repository
 builder.Services.AddScoped<IGalleryRepository, GalleryRepository>();
 builder.Services.AddHttpContextAccessor();
-// this instance must have the same lifetime as the repository since it uses it in it's implementations
 builder.Services.AddScoped<IAuthorizationHandler, MustOwnImageHandler>();
 
-// register AutoMapper-related services
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
 JwtSecurityTokenHandler.DefaultInboundClaimTypeMap.Clear();
