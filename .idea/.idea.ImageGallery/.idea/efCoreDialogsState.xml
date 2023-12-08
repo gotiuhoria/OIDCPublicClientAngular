@@ -3,6 +3,7 @@
   <component name="EfCoreDialogsState">
     <option name="keyValueStorage">
       <map>
+        <entry key="Common:1749394d-2017-4d16-add7-b49aefd44f7a:dbContext" value="ImageGallery.API.DbContexts.GalleryContext" />
         <entry key="Common:buildConfiguration" value="Debug" />
         <entry key="Common:c75f7cb5-5999-4787-8502-e889b12f620b:dbContext" value="Marvin.IDP.DbContexts.IdentityDbContext" />
         <entry key="Common:noBuild" value="false" />

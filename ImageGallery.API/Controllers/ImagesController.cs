@@ -33,6 +33,14 @@ namespace ImageGallery.API.Controllers
         [Authorize]
         public Image GetText()
         {
+            var claims = User.Claims;
+
+            foreach (var claim in claims)
+            {
+                Console.WriteLine($"{claim.Type}: {claim.Value}");
+            }
+            
+            
             return new Image
             {
                 Id = new Guid(),
